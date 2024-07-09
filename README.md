@@ -5,7 +5,7 @@
 ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/ba795455-bc59-4d1c-89fd-b5a035618c58)
 
 
-This project seeks to predict the math scores of students by assessing various dependent factors and has been deployed through:
+This Machine Learning project seeks to predict the math scores of students by assessing various dependent factors and has been deployed through:
 
 * Microsoft Azure Cloud Platform
 * Running Locally through Flask
@@ -58,7 +58,7 @@ Clone this repo and open the project via your preferred IDE.
   
  ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/473a782e-0588-4857-af4f-3f5fe78ef957)
 
-* You should get the following success message. On your repo, you will find a **.yml** file created for you. This file contains all the necessary metadata for configuring a CI/CD pipeline in azure through GitHub actions
+* You should get the following success message. On your repo, you will find a **.yml** file created for you. This file contains all the necessary metadata for configuring a CI/CD pipeline in Azure through GitHub actions
   
 ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/ad3d29cc-e2b6-4310-8ddc-fbb9fd6dd628)
 
@@ -70,7 +70,7 @@ Clone this repo and open the project via your preferred IDE.
 
   ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/9290ecc2-6c65-4a42-8af8-4b5cf0f11f41)
 
-* **Do not forget to delete your Azure resource after you're done. Cloud resources are not cheap!**. Navigate to your resource group on the Azure platform and delete it.
+* **Do not forget to delete your Azure resource after you're done. Cloud resources are not cheap!**. Navigate to your resource group on the Azure homepage and delete it.
 
   ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/42f81626-50cd-4227-9cb5-0bce3881dfc7)
 
