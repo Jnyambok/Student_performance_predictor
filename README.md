@@ -3,13 +3,10 @@
 # CI/CD Pipeline for Student Performance Prediction on Microsoft Azure using Github Actions
 
 
-![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/ba795455-bc59-4d1c-89fd-b5a035618c58)
-
-
 This Machine Learning project seeks to predict the math scores of students by assessing various dependent factors and has been deployed through:
 
 * Microsoft Azure Cloud Platform
-* Running Locally through Flask
+* Running Locally through Flask.
 
 ## Disclaimer : Please note that this error arises because I have deleted the resources on Azure to save on costs
 ![image](https://github.com/Jnyambok/end_to_end_azure_ml_project/assets/49593319/a12f6a2a-501c-42aa-8aac-ff59b6f7e968)
